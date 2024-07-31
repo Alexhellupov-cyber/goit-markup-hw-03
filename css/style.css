@@ -90,6 +90,7 @@ color: #404bbf;
 .first-section {
       background: #2e2f42;
 }
+
 .title-solutions {
       font-weight: 700;
       font-size: 56px;
@@ -127,6 +128,12 @@ cursor: pointer;
 }
 .our-team {
       background-color: #f4f4fd;
+      padding-top: 120px; 
+      padding-bottom: 120px;
+}
+.divportfolio{
+      container:inherit;
+
 }
 .title-our-team {
       font-weight: 700;
@@ -164,6 +171,7 @@ cursor: pointer;
       text-align: center;
       text-transform: capitalize;
       color: #2e2f42;
+      margin-bottom: 72px;
 }
 .portfolio .list-portfolio {
       background-color: #FFFFFF;
@@ -212,6 +220,5 @@ cursor: pointer;
       line-height: 1.5;
       letter-spacing: 0.02em;
       color: #f4f4fd;
-      max-width: 264px;
-      container-type: inline-size;
+      max-width: 264px
 }
