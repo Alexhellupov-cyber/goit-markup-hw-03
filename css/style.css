@@ -82,9 +82,7 @@ padding: 24px;
       gap: 40px;
       padding: 24px;
 }
-.contacts .contacts-link(3){
-      margin-right: 0
-}
+
 .contacts .contacts-link:hover, .contacts .contacts-link:focus {
 color: #404bbf;
 
@@ -187,6 +185,10 @@ cursor: pointer;
 }
 .end {
       background-color: #2e2f42;
+      padding: 100px 0
+}
+.divend{
+      container:calc(0);
 }
 .logo-end {
       font-family: "Raleway", sans-serif;
@@ -196,6 +198,8 @@ cursor: pointer;
       letter-spacing: 0.03em;
       text-transform: uppercase;
       color: #4d5ae5;
+      display: inline-block;
+      margin-bottom: 16px;
 }
 .logo-span-end {
 
@@ -208,4 +212,5 @@ cursor: pointer;
       line-height: 1.5;
       letter-spacing: 0.02em;
       color: #f4f4fd;
+      max-width: 264px
 }
