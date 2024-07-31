@@ -82,6 +82,9 @@ padding: 24px;
       gap: 40px;
       padding: 24px;
 }
+.contacts .contacts-link(3){
+      margin-right: 0
+}
 .contacts .contacts-link:hover, .contacts .contacts-link:focus {
 color: #404bbf;
 
