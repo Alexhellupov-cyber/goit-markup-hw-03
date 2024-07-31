@@ -78,6 +78,9 @@ padding: 24px;
       line-height: 1.5;
       letter-spacing: 0.02em;
       color: #434455;
+      display: flex;
+      gap: 40px;
+      padding: 24px;
 }
 .contacts .contacts-link:hover, .contacts .contacts-link:focus {
 color: #404bbf;
