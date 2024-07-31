@@ -42,6 +42,7 @@ border-bottom: 1px solid #e7e9fc
 
 .navigation{
       display: flex;
+      gap: 40px;
       align-items: center;
 }
 .menu .link {
