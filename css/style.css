@@ -30,7 +30,8 @@ a {
 background-color: #fff;
 text-decoration: none;
 color: white;
-border-bottom: 1px solid #e7e9fc
+border-bottom: 1px solid #e7e9fc;
+container:unset;
 }
 .divheader{
       display: flex;
