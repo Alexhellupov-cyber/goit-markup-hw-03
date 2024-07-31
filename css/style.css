@@ -19,6 +19,8 @@ a {
       text-transform: uppercase;
       text-decoration: none;
       color: #4d5ae5;
+      margin-right: 76px;
+
       
 }
 .logo-span {
@@ -27,7 +29,20 @@ a {
 .header {
 background-color: #fff;
 text-decoration: none;
-    color: white;
+color: white;
+border-bottom: 1px #e7e9fc;
+}
+.divheader{
+      display: flex;
+      container: 0;
+      width: 1158px;
+      margin: 0 auto;
+      padding: 0 15px;
+}
+
+.navigation{
+      display: flex;
+      align-items: center;
 }
 .menu .link {
       font-weight: 500;
@@ -35,6 +50,10 @@ text-decoration: none;
       line-height: 1.5;
       letter-spacing: 0.02em;
       color: #2e2f42;
+      display: flex;
+      gap: 40px;
+      padding: 24px;
+
 }
 .menu .link:hover, .menu .link:focus {
 color: #404bbf;
@@ -47,6 +66,8 @@ color: #404bbf;
 }
 .info {
 font-style: normal;
+display: flex;
+gap: 40px;
 }
 .contacts .contacts-link {
       font-weight: 400;
