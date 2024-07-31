@@ -69,6 +69,7 @@ color: #404bbf;
 font-style: normal;
 display: flex;
 gap: 40px;
+padding: 24px;
 }
 .contacts .contacts-link {
       font-weight: 400;
