@@ -107,7 +107,7 @@ color: #404bbf;
       color: #fff;
       max-width: 496px;
 }
-.solutions >ul{
+.solutions >li{
       display: flex;
       gap: 24px;
 
