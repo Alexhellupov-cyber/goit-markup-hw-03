@@ -33,7 +33,7 @@ color: white;
 border-bottom: 1px solid #e7e9fc;
 container:unset;
 }
-.divheader{
+.header .container{
       display: flex;
       container:unset ;
       width: 1158px;
@@ -94,7 +94,9 @@ color: #404bbf;
 .first-section {
       background: #2e2f42;
 }
-
+.first-section .container{
+      padding: 188px 0;
+}
 .title-solutions {
       font-weight: 700;
       font-size: 56px;
@@ -102,6 +104,7 @@ color: #404bbf;
       letter-spacing: 0.02em;
       text-align: center;
       color: #fff;
+      max-width: 496px;
 }
 .button {
 background: #4d5ae5;
@@ -111,6 +114,11 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
 cursor: pointer;
+display: block;
+min-width: 169px;
+height: 56px;
+border: none;
+border-radius: 4px;
 }
 .button:hover, .button:focus {
       background: #404bbf;
