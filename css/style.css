@@ -93,6 +93,7 @@ color: #404bbf;
 }
 .first-section {
       background: #2e2f42;
+      padding: 188px 0
 }
 .first-section .container{
       padding: 188px 0;
@@ -137,6 +138,12 @@ border-radius: 4px;
       line-height: 1.5;
       letter-spacing: 0.02em;
       color: #434455;
+}
+.two-section{
+      padding: 120px 0;
+}
+.two-section > h3{
+      .
 }
 .our-portfolio{
       padding-top: 120px;
