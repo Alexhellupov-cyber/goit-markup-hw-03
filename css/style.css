@@ -140,7 +140,7 @@ cursor: pointer;
       display: flex;
 }
 
-.divportfolio > ul{
+.divportfolio > li{
       column-gap: 24px;
       flex-wrap: wrap;
       display: flex;
