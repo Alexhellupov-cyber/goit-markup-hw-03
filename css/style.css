@@ -133,7 +133,17 @@ cursor: pointer;
 }
 .divportfolio{
       container:inherit;
+      display: flex;
+}
 
+.divportfolio > ul{
+      column-gap: 24px;
+      flex-wrap: wrap;
+      display: flex;
+      row-gap: 48px;
+}
+.divportfolio li(1){
+      width: calc((100% - 48px) / 3);
 }
 .title-our-team {
       font-weight: 700;
