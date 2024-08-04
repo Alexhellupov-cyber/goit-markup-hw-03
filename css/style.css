@@ -107,6 +107,24 @@ color: #404bbf;
       color: #fff;
       max-width: 496px;
 }
+.solutions >ul{
+      display: flex;
+      gap: 24px;
+
+}
+
+.Strategy{
+      width: calc((100% - 72px) / 4);   
+}
+.Punctuality{
+      width: calc((100% - 72px) / 4);  
+}
+.Diligence{
+      width: calc((100% - 72px) / 4);  
+}
+.Technologies{
+      width: calc((100% - 72px) / 4);  
+}
 .button {
 background: #4d5ae5;
 font-weight: 500;
@@ -131,6 +149,7 @@ border-radius: 4px;
       line-height: 1.2;
       letter-spacing: 0.02em;
       color: #2e2f42;
+      margin-bottom: 8px;
 }
 .text {
       font-weight: 400;
@@ -142,8 +161,9 @@ border-radius: 4px;
 .two-section{
       padding: 120px 0;
 }
-.two-section > h3{
-      .
+.two-section .visually-hidden{
+
+      
 }
 .our-portfolio{
       padding-top: 120px;
