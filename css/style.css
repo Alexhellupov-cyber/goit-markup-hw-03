@@ -126,6 +126,10 @@ cursor: pointer;
       letter-spacing: 0.02em;
       color: #434455;
 }
+.our-portfolio{
+      padding-top: 120px;
+      padding-bottom: 120px;
+}
 .our-team {
       background-color: #f4f4fd;
       padding-top: 120px; 
